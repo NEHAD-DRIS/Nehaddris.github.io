@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  font-variant: Arial,sans-serif;
+  background-color: silver;
+}
+table, td,th {
+  text-align: center;
+  border: 1px solid black;
+}
+b{
+  text-decoration: underline;
+}
